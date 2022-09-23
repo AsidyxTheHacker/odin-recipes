@@ -25,3 +25,8 @@ h1 {
 .bod {
     background-color: crimson;
 }
+
+.cent {
+    text-align: center;
+    font-family: monospace;
+}
