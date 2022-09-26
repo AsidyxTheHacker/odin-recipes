@@ -1,6 +1,6 @@
 * {
     padding: 0;
-    margin: 1px;
+    margin: 10px;
     text-align: left;
     box-sizing: border-box;
 }
@@ -13,13 +13,12 @@
     font-size: 40px;
     height: 100px;
     width: 500px;
-
 }
 
 .b2 {
     color:black;
     background-color: indianred;
-    margin: 10px;
+    margin-left: 100px;
     font-family: sans-serif;
     font-size: 40px;
     height: 100px;
@@ -35,6 +34,7 @@
     font-size: 40px;
     height: 100px;
     width: 500px;
+    margin-left: 200px;
 }
 
 h1 {
@@ -48,5 +48,5 @@ h1 {
     border: 3px groove purple;
     padding: 5px;
     font-family: sans-serif;
-    margin:10px;
+    margin-left:400px;
 }
